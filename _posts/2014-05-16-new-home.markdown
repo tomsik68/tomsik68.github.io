@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "New Home!"
+date:   2014-05-16 23:23:23
+categories: jekyll update webpage blog homepage website
+---
+
+Hello World! This is my new homepage, which I created from scratch using Aptana Studio 3. 
+Here, you can find my projects categorised and described and this is also the best place to get updates about my projects.
+
+If I ever create any webgames/webapps, you'll find them all hosted here. This page is also a new central website for my blog, because I want to have more control over the page and want to use it for projects aswell.
+
+
+Let me just briefly describe what's under these sections:
+
+* Home - Latest posts
+* Gamedev - Games I created
+* Minecraft - Minecraft-related content(plugins, mods)
+* Other projects - Mostly software that doesn't fit to any category
+* About Me - Various information about me you may find interesting plus ways to contact me on different social platforms

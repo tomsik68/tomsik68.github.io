@@ -1,0 +1,125 @@
+body {
+	background-color: black;
+	color: #AAAAAA;
+}
+a {
+	color: #0A7A00;
+	text-decoration: none;
+	font-weight: bold;
+	border-color: black;
+	border-width: 1px;
+	border-style: solid;
+	margin: 0;
+	/*	border-bottom-left-radius: 5px;
+	 border-bottom-right-radius: 5px;
+	 border-top-left-radius: 5px;
+	 border-top-right-radius: 5px;*/
+}
+a:hover {
+	border-style: dotted;
+	border-color: yellow;
+}
+a.menu {
+	display: block;
+}
+a.menu:hover {
+	border-color: black;
+}
+li.menu {
+	display: inline;
+	font-size: 1.25em;
+	color: aqua;
+	background-color: black;
+	margin-bottom: 4px;
+	float: left;
+	padding: 10px;
+	border-bottom-style: solid;
+	border-bottom-width: 2.5px;
+	border-bottom-color: black;
+}
+li.menu:hover {
+	/*background-color: #FFBC77;*/
+	/*border-bottom-color: #A300D9;*/
+	border-bottom-color: lime;
+}
+.container {
+	/*background-color: #FFC36B;*/
+	background-color: #111111;
+	text-align: center;
+	width: 80%;
+	border-top-right-radius: 155px;
+	border-bottom-left-radius: 155px;
+	padding: 45px;
+	border-style: solid;
+	border-width: 3px;
+	border-color: #333333;
+}
+.posts {
+	list-style-type: none;
+	text-align: left;
+}
+.list_menu {
+	list-style-type: none;
+	display: inline-block;
+	font-family: 'Fauna One';
+}
+h1 {
+	font-family: "Share Tech";
+	font-size: 2.2em;
+	color: #52A6BF;
+	text-shadow: 3px 3px 12px;
+}
+h2 {
+	text-align: left;
+	font-family: "Share Tech";
+	font-size: 1.8em;
+	color: #52A6BF;
+	text-shadow: 3px 3px 12px;
+}
+h2.post {
+	padding: 0;
+	display: inline;
+}
+.post {
+	font-family: 'Fauna One';
+	background-color: black;
+	padding: 20px;
+}
+li.post {
+
+	/*border-style: dashed;
+	 border-width: 1px;*/
+	margin-bottom: 25px;
+	padding: 10px;
+	text-align: left;
+}
+p.meta {
+	text-align: left;
+	font-family: monospace;
+	font-size: 1.4em;
+}
+div.post {
+	text-align: left;
+}
+span.date {
+	float: right;
+	border-bottom-color: silver;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-left-radius: 15px;
+}
+.copyright {
+	color: #282828;
+}
+hr {
+	border-style: solid;
+	border-color: gray;
+}
+.finaldivider {
+	border-style: dashed;
+	border-width: 4px;
+}
+.highlight {
+	padding-left: 5px;
+	background-color: #eef;
+}

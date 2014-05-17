@@ -1,0 +1,13 @@
+name: Tomsik68's site
+markdown: redcarpet
+pygments: true
+paginate: 5
+paginate_path: "blog/page:num"
+links: [
+{name: 'Home', href: 'jekyll/update/webpage/blog/homepage/website/2014/05/17/new-home.html'},
+{name: 'Blog', href: 'blog'},
+{name: 'Gamedev Area', href: 'gamedev'},
+{name: 'Minecraft Area', href: 'minecraft'},
+{name: 'Other Projects', href: 'projects'},
+{name: 'About Me', href: 'about'}
+]

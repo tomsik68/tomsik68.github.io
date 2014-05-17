@@ -1,0 +1,6 @@
+
+<ul class='list_menu'>
+	{% for link in site.links %}
+	<li class='menu'><a class='menu' href='{{site.url}}/{{link.href}}'>{{link.name}}</a></li>
+	{% endfor %}
+</ul>
