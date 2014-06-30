@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Legal troubles solved."
+date:   2014-06-30 11:42
+categories: update minecraft github plugins properweather realmotd chimneys particleworkshop
+---
+
+Hello everybody reading this!
+
+I had some additional time, which allowed me to improve quality of my projects. 
+Today, I'd like to announce, that I'm going to change from GNU/GPLv3 to MIT. Why?
+I spent some time reading about various open-source licenses and found, that MIT is much better for others than GPL, as GPL contains too many restrictions.
+MIT is more permissive, so I believe this change will attract more users & developers to my projects :)
+
+This change will affect in fact everything I maintain, develop or create. I can't really change licenses all day long, so it will happen during summer holidays.
+Thank you everyone for following & supporting me! :)
