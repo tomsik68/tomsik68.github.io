@@ -8,3 +8,5 @@ I've always liked making games and I still do. In my opinion, making games is th
 I'd love to upload some of my older games on this page, but I need to get time first.
 
 Nowadays, I enjoy doing [Ludum Dare](http://www.ludumdare.com/) competitions(mainly the August ones).
+
+Currently I'm working on few secret game projects with my buddy @dudoslav :) More updates may be released after we do some progress...
