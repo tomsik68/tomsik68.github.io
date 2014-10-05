@@ -5,6 +5,7 @@ date: 2014-08-05 17:37:27
 ---
 
 Whoever is reading this, please note, that:
+
 * I've created quite a lot of things, so it's pretty difficult to split it up in categories.
 * This software wasn't meant to be published, so please don't blame me for code un-clearance
 * I own most of this software. I might've used stack overflow or something, but I wrote most of the code you're seeing
