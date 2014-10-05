@@ -13,8 +13,10 @@ If I ever create any webgames/webapps, you'll find them all hosted here. This pa
 
 Let me just briefly describe what's under these sections:
 
-* Home - Latest posts
-* Gamedev - Games I created
+* Home - This post
+* Blog - blog.
+* Old - Old software created like six years ago. It's just for historical purposes...
+* Gamedev - About me & game development, some games might appear there
 * Minecraft - Minecraft-related content(plugins, mods)
 * Other projects - Mostly software that doesn't fit to any category
 * About Me - Various information about me you may find interesting plus ways to contact me on different social platforms

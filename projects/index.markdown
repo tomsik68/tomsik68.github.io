@@ -6,6 +6,14 @@ title: Other Projects
 
 Besides games, I work on number of other projects that don't fit games category, so I just write them down here, so I don't have to categorize them. C'mon, I haven't got so many projects :D
 
+## sdl-xbmc-remote
+
+I've got an XBMC media center in my room and I'm using wired keyboard to control it atm.
+It's very uncomfortable and the wire always gets in the way. So how cool would it be to control your XBMC with your OpenPandora(http://openpandora.org)?
+Simple answer: really cool. I've collected my C++ skills and setup sdl-xbmc-remote. 
+It's going to be a simple application which reads user input and sends it to XBMC.
+"Why GPL3? you said MIT is better!" - Yes, it is, but I've used official XBMC library which is "under GPL2 or higher", so I sticked with GPL3. 
+
 ## WifiMapper
 
 WifiMapper's aim is to help people to create their own wifi maps. I'm currently using this on my OpenPandora along with external GPS and rendering to GeoJSON. Then, I import GeoJSON to QGIS with OpenLayers Street Layer and voila, I see the wifis. 

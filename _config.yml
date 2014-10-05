@@ -9,5 +9,6 @@ links: [
 {name: 'Gamedev Area', href: 'gamedev'},
 {name: 'Minecraft Area', href: 'minecraft'},
 {name: 'Other Projects', href: 'projects'},
+{name: 'Old Software', href: 'old'},
 {name: 'About Me', href: 'about'}
 ]
