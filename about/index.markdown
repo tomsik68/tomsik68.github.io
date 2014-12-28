@@ -3,7 +3,7 @@ layout: post
 date: 2014-05-17 10:08:08
 title: About Me
 ---
-Hello World! My name is Tomsik68. I'm 17 year-old boy who is interested in video games, programming, sci-fi and stuff.
+Hello World! My name is Tomsik68. I'm 18 year-old boy who is interested in video games, programming, sci-fi and stuff.
 My IRL name is Tomas and I live in Slovakia. There's really nothing to say about my personal life, because there's none :)
 
 Most of my time is spent by playing MineCraft, either vanilla or few modpacks from technic launcher. I prefer multiplayer, but I play singleplayer most of time, since my friends don't play MC so much. Next game I play really often is Spelunky, which I only play on XBOX.
