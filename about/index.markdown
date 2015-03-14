@@ -29,3 +29,6 @@ Please note, that order indicates how often I use those services. So you have hi
 * YouTube: [tomsik68] (http://youtube.com/user/tomsik68)
 * MCF: [tomsik68] (http://www.minecraftforum.net/user/337651-tomsik68/)
 * Skype: [Tomsik68] (skype:tomsik68?chat)
+
+If you want to contact me securely, you can use [my public PGP key](key.gpg) to encrypt your message. I'll be able to decrypt it.
+The key can also be downloaded from [SKS keyserver pool](https://hkps.pool.sks-keyservers.net/pks/lookup?op=get&search=0xCA1D3571B1934B34)
