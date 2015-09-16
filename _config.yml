@@ -4,11 +4,11 @@ pygments: true
 paginate: 5
 paginate_path: "blog/page:num"
 links: [
-{name: 'Home', href: 'jekyll/update/webpage/blog/homepage/website/2014/05/16/new-home.html'},
-{name: 'Blog', href: 'blog'},
-{name: 'Gamedev Area', href: 'gamedev'},
-{name: 'Minecraft Area', href: 'minecraft'},
-{name: 'Other Projects', href: 'projects'},
-{name: 'Old Software', href: 'old'},
-{name: 'About Me', href: 'about'}
+        {name: 'Home', href: 'jekyll/update/webpage/blog/homepage/website/2015/09/16/home-sweet-home.html'},
+        {name: 'Blog', href: 'blog'},
+        {name: 'Gamedev Area', href: 'gamedev'},
+        {name: 'Minecraft Area', href: 'minecraft'},
+        {name: 'Other Projects', href: 'projects'},
+        {name: 'Old Software', href: 'old'},
+        {name: 'About Me', href: 'about'}
 ]
