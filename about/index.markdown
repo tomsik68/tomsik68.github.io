@@ -3,8 +3,8 @@ layout: post
 date: 2015-05-10 13:56:34
 title: About Me
 ---
-Hello World! My name is Tomsik68. I'm 18 year-old boy who is interested in video games, programming, sci-fi and stuff.
-My IRL name is Tomas Jasek and I live in Slovakia. 
+Hello World! My name is Tomsik68. I'm `currentYear - 1996` year-old boy who is interested in video games, programming, sci-fi and stuff.
+My IRL name is Tomas Jasek, I'm from Slovakia, but I currently live & study in Czech Republic. 
 
 I spend most of my time at PC by programming. My favourite programming languages are Java &amp; Python and C with C++ are slowly getting on the fav list :), but I also know VB.NET, C# and I'm learning Pascal at school. You can find some of my projects open-sourced on github(link is below in contact section) and also this page. I started programming when I was 11. 
 It was time when I received my first Nintendo DS console. I wanted to create games really really much, so I picked up C. It was lots of pain, but I was very happy that I could get something to show on both screens :))
